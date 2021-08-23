@@ -5,7 +5,7 @@ Click on the map of Maynooth and its surrounding area to create or remove points
 IDE used: Eclipse (should work on other IDEs too)
 
 ## :computer:Installation
-Clone this repository or download the files and import them into your favourite IDE
+Download the files and import them into your favourite IDE
 
 ## :book:Instructions
 * Left-click on the map to place points
