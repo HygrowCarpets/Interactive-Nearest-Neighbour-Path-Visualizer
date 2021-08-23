@@ -21,4 +21,5 @@ Clone this repository or download the files and import them into your favourite 
   - [ ] 2-opt
   - [ ] 3-opt
   - [ ] Random
+  - [ ] Brute Force
 - [ ] Add animation when points are placed and removed
